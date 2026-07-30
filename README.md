@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Jashaswi04/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Jashaswi04/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Math
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
