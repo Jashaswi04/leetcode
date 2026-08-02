@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -37,8 +38,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
