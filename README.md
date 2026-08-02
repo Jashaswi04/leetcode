@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
