@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
