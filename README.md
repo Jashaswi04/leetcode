@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Jashaswi04/leetcode/tree/master/3561-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Jashaswi04/leetcode/tree/master/3561-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Jashaswi04/leetcode/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
