@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Jashaswi04/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -72,16 +74,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
