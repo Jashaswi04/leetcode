@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Jashaswi04/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Jashaswi04/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Jashaswi04/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](https://github.com/Jashaswi04/leetcode/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Jashaswi04/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
