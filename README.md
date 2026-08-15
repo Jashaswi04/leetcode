@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jashaswi04/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Jashaswi04/leetcode/tree/master/4107-find-missing-elements) |
 ## Recursion
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Jashaswi04/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jashaswi04/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
