@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Jashaswi04/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 ## Memoization
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
+| [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jashaswi04/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Jashaswi04/leetcode/tree/master/4107-find-missing-elements) |
 ## Recursion
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
