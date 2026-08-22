@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Jashaswi04/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Jashaswi04/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
