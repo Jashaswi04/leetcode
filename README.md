@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Jashaswi04/leetcode/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Jashaswi04/leetcode/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Jashaswi04/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
