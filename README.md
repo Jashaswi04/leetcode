@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Jashaswi04/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Jashaswi04/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Jashaswi04/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jashaswi04/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Jashaswi04/leetcode/tree/master/4107-find-missing-elements) |
 ## Recursion
