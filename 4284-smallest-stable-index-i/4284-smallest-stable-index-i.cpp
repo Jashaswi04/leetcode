@@ -8,16 +8,12 @@ public:
         mini[n-1]=nums[n-1];
         maxi[0]=nums[0];
         for (int i=1;i<n;i++){
-            maxi[i]=nums[i];
-            for(int j=i-1;j>=0;j--){
-                if(nums[j]>maxi[i]) maxi[i]=nums[j];
-            }
+            if(nums[i]>maxi[i-1]) maxi[i]=nums[i];
+            else maxi[i]=maxi[i-1];
         }
-        for (int i=0;i<n;i++){
-            mini[i]=nums[i];
-            for(int l=i+1;l<n;l++){
-                if(nums[l]<mini[i]) mini[i]=nums[l];
-            }
+        for (int i=n-2;i>=0;i--){
+            if(nums[i]<mini[i+1]) mini[i]=nums[i];
+            else mini[i]=mini[i+1];
         }
         for (int i=0;i<n;i++){
             if (maxi[i]-mini[i]<=k) return i;
