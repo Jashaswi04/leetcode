@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jashaswi04/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jashaswi04/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Jashaswi04/leetcode/tree/master/4107-find-missing-elements) |
+| [4284-smallest-stable-index-i](https://github.com/Jashaswi04/leetcode/tree/master/4284-smallest-stable-index-i) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
+| [4284-smallest-stable-index-i](https://github.com/Jashaswi04/leetcode/tree/master/4284-smallest-stable-index-i) |
 ## Nim Game
 |  |
 | ------- |
