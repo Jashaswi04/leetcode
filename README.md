@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/Jashaswi04/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [1025-minimum-cost-for-tickets](https://github.com/Jashaswi04/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Jashaswi04/leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Jashaswi04/leetcode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jashaswi04/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Jashaswi04/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Jashaswi04/leetcode/tree/master/1559-cherry-pickup-ii) |
