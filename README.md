@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/Jashaswi04/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Jashaswi04/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/Jashaswi04/leetcode/tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/Jashaswi04/leetcode/tree/master/4248-count-commas-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
