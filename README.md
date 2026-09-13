@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Jashaswi04/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Jashaswi04/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashaswi04/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Jashaswi04/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Jashaswi04/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Jashaswi04/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Jashaswi04/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Jashaswi04/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashaswi04/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Jashaswi04/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Jashaswi04/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Jashaswi04/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Jashaswi04/leetcode/tree/master/0486-predict-the-winner) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jashaswi04/leetcode/tree/master/0322-coin-change) |
 | [3561-remove-methods-from-project](https://github.com/Jashaswi04/leetcode/tree/master/3561-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jashaswi04/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jashaswi04/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Jashaswi04/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Jashaswi04/leetcode/tree/master/0518-coin-change-ii) |
@@ -194,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jashaswi04/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jashaswi04/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
