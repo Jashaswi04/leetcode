@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Jashaswi04/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Jashaswi04/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4107-find-missing-elements](https://github.com/Jashaswi04/leetcode/tree/master/4107-find-missing-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Jashaswi04/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1617-stone-game-iv](https://github.com/Jashaswi04/leetcode/tree/master/1617-stone-game-iv) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Jashaswi04/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 ## Memoization
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Jashaswi04/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Jashaswi04/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/Jashaswi04/leetcode/tree/master/1685-stone-game-v) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jashaswi04/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jashaswi04/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
