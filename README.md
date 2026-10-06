@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Jashaswi04/leetcode/tree/master/0115-distinct-subsequences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jashaswi04/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/Jashaswi04/leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jashaswi04/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jashaswi04/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Jashaswi04/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jashaswi04/leetcode/tree/master/0518-coin-change-ii) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jashaswi04/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jashaswi04/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
