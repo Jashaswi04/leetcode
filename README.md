@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jashaswi04/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/Jashaswi04/leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Jashaswi04/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Jashaswi04/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jashaswi04/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jashaswi04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Jashaswi04/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Jashaswi04/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/Jashaswi04/leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Jashaswi04/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/Jashaswi04/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1240-stone-game-ii](https://github.com/Jashaswi04/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Jashaswi04/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Jashaswi04/leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jashaswi04/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Jashaswi04/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Jashaswi04/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
